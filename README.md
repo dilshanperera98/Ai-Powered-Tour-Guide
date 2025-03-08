@@ -21,4 +21,4 @@ Step 4: The system presents both the detected landmark and the historical descri
 Advantages:
 User-Friendly: With just an image, users can receive automatic information about landmarks.
 Real-Time Knowledge: Offers dynamic, up-to-date historical facts.
-Engagement: Interactive learning by providing detailed, human-like descriptions powered by GPT-4.
+Engagement: Interactive learning by providing detailed, human-like descriptions powered by GPT-4. 
