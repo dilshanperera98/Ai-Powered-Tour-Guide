@@ -12,7 +12,7 @@ Historical Description (OpenAI GPT-4):
 Once a landmark is detected, the name is passed to the OpenAI GPT-4 API to generate a short historical description about the landmark.
 You’ve set up a conversational system where GPT-4 is prompted to provide context, history, and interesting facts about the landmark, enriching the experience for the user.
 Use case: After identifying a landmark like the Colosseum, the system fetches historical insights and delivers them as a conversational response, providing tourists with educational content.
-
+      
 Flow:
 Step 1: User uploads or takes a picture of a landmark.
 Step 2: The image is analyzed by the Google Vision API to detect and recognize any landmarks.
