@@ -14,7 +14,7 @@ A landmark recognition system that uses Google Cloud Vision API and OpenAI's GPT
 
 🛠 Technologies Used    
    
-Computer Vision: Google Vision API   
+Computer Vision: Google Vision API      
 
 AI & NLP: OpenAI GPT-4   
    
