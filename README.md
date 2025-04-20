@@ -21,4 +21,4 @@ AI & NLP: OpenAI GPT-4
 Cloud Services: Google Cloud, OpenAI API
 
 Mobile Integration: Supports real-time image analysis
-  
+     
