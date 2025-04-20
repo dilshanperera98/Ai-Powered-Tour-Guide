@@ -10,7 +10,7 @@ A landmark recognition system that uses Google Cloud Vision API and OpenAI's GPT
 
 🔥 Advantages     
  
-✅ User-Friendly: Simply take a picture to get landmark details.✅ Real-Time Knowledge: Access up-to-date historical facts.✅ Engagement: Interactive learning via AI-generated descriptions.   
+✅ User-Friendly: Simply take a picture to get landmark details.✅ Real-Time Knowledge: Access up-to-date historical facts.✅ Engagement:   Interactive learning via AI-generated descriptions.   
 
 🛠 Technologies Used        
    
