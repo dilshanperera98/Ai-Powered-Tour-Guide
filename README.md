@@ -12,7 +12,7 @@ A landmark recognition system that uses Google Cloud Vision API and OpenAI's GPT
  
 ✅ User-Friendly: Simply take a picture to get landmark details.✅ Real-Time Knowledge: Access up-to-date historical facts.✅ Engagement:   Interactive learning via AI-generated descriptions.   
 
-🛠 Technologies Used        
+🛠 Technologies Used          
    
 Computer Vision: Google Vision API      
 
