@@ -4,7 +4,7 @@
 
 A landmark recognition system that uses Google Cloud Vision API and OpenAI's GPT-4 to provide historical insights about detected landmarks in real-time.
 
-🔍 Features & Workflow
+🔍 Features & Workflow 
 
 1️⃣ User uploads/takes a picture of a landmark2️⃣ Google Cloud Vision API detects landmarks3️⃣ Detected landmark is sent to OpenAI GPT-4 for historical context4️⃣ User receives a description + landmark details
 
